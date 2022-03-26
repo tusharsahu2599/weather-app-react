@@ -1,7 +1,5 @@
 # React Weather App - ReactJS Projects
 
-![](weather.gif)
-
 ### APIs Used
 [Open Weather APIs](https://openweathermap.org/)
 
